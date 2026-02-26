@@ -1,4 +1,4 @@
-# car_rental_assign_Internshala
+# car_rental_assign
 
 🚗 Car Rental System
 
