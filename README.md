@@ -13,9 +13,11 @@ Thanks for stopping by!! This is a personal project I developed to explore web i
 
 🛠️ Tech Stack:
 
-Frontend: HTML, CSS, JavaScript
-Backend: PHP / MySQL (as typical for InfinityFree)
-Hosting: InfinityFree
+Frontend: HTML, CSS, JavaScript.
+
+Backend: PHP / MySQL (as typical for InfinityFree).
+
+Hosting: InfinityFree.
 
 Cheers, 
 Shourya.
