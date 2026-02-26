@@ -1,12 +1,21 @@
 # car_rental_assign_Internshala
 
+🚗 Car Rental System
 
-HELLO THERE!!
+HELLO THERE!!👋
 
-I just wanted to let you know that this is my assignment for Software Development Engineering (Web) for INTERNSHALA.
-So Do Enjoyy my assignment...
+Thanks for stopping by!! This is a personal project I developed to explore web implementation and hosting. It serves as a functional demonstration of a car rental interface, built as a creative assignment.
 
-Thank You,
+🌐 Live Demo: You can view the live project here:
 
-Yours,
-SHOURYA.
+👉 carrental-by-shouryasethiya.infinityfreeapp.com 
+
+
+🛠️ Tech Stack:
+
+Frontend: HTML, CSS, JavaScript
+Backend: PHP / MySQL (as typical for InfinityFree)
+Hosting: InfinityFree
+
+Cheers, 
+Shourya.
